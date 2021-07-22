@@ -1,5 +1,7 @@
 # Stock-Market-Prediction
 
+Use Tiingo to collect your API key
+https://pandas-datareader.readthedocs.io/en/latest/remote_data.html#remote-data-tiingo
 
 ## Libraries used: pandas, numpy, tensorflow, math, matplotlib
 
