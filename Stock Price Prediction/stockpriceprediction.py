@@ -11,7 +11,7 @@ Original file is located at
 
 ### Data Collection
 import pandas_datareader as pdr
-key="3204299e61f9d128c579936732329f684cee11ba"
+key=""
 
 df = pdr.get_data_tiingo('AAPL', api_key=key)
 
