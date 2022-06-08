@@ -5,5 +5,5 @@ https://pandas-datareader.readthedocs.io/en/latest/remote_data.html#remote-data-
 
 ## Libraries used: pandas, numpy, tensorflow, math, matplotlib
 
-![stock prediction ss](https://user-images.githubusercontent.com/60294845/126632344-41eb1c1b-3143-4208-95fe-fa923921b2dc.png)
+![image](https://user-images.githubusercontent.com/60294845/172701876-b9010fba-0dca-4ddb-98cd-b2a132d2b164.png)
 
